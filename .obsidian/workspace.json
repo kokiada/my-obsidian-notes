@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#哲学",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,11 +207,12 @@
   },
   "active": "eac8a0006ce89f8e",
   "lastOpenFiles": [
+    "DailyNotes/20260913.md",
+    "DailyNotes/20260914.md",
+    "DailyNotes/20260915.md",
     "DailyTweet/202609/0914.md",
     "DailyTweet/202609/0913.md",
-    "DailyNotes/20260914.md",
     "DailyTweet/202609/0910.md",
-    "DailyNotes/20260913.md",
     "DailyTweet/202609/0912.md",
     "DailyTweet/202609",
     "DailyTweet",
