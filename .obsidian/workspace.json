@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/20260914.md",
+                "file": "DailyNotes/20260916.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260914"
+              "title": "20260916"
             }
           }
         ]
@@ -207,9 +207,11 @@
   },
   "active": "eac8a0006ce89f8e",
   "lastOpenFiles": [
-    "DailyNotes/20260913.md",
-    "DailyNotes/20260914.md",
     "DailyNotes/20260915.md",
+    "DailyNotes/20260916.md",
+    "DailyNotes/20260914.md",
+    "DailyTweet/202609/0915.md",
+    "DailyNotes/20260913.md",
     "DailyTweet/202609/0914.md",
     "DailyTweet/202609/0913.md",
     "DailyTweet/202609/0910.md",
